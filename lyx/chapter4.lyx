@@ -1,0 +1,195 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass report
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine natbib_numerical
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+IMPLEMENTASI DAN PENGUJIAN
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:ImplementasiPengujian"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Subbab Pertama
+\end_layout
+
+\begin_layout Standard
+Pada bab ini akan dijelaskan mengenai implementasi dan pembahasan robosoccer
+ blab bla Meskipun lokasinya berada di perkampungan, namun permintaan pertunjuka
+n dari para pelancong tak pernah surut, “Mereka (wisatawan asing, red) tahu
+ dari pemandu wisata yang mempromosikan kami.
+ Setelah mereka tertarik, kami pun diminta pentas,” ujarnya.
+ Pria yang akrab dipanggil Kang Ion itu mengatakan, beberapa kesenian khas
+ dari daerah Pangandaran ditampilkan seperti seni ibing ronggeng gunung,
+ gondang dan bumbeng.
+ “Awal tujuan kelompok seni kami ini hanya sebagai wadah untuk melestarikan
+ budaya yang diwariskan orang tua kami.
+ Namun semakin lama, banyak wisatawan yang datang dan meminta kami tampil,”
+ jelas dia.
+ 
+\end_layout
+
+\begin_layout Standard
+Setiap pementasan, kata Ion, kelompoknya selalu melibatkan penonton.
+ “Ya itu sebagai daya tarik biar mereka benar-benar menikmati dan mendapatkan
+ pengalaman baru.
+ Kami juga mengajarkan mereka,” tuturnya.
+ Dikatakan Ion, sedikitnya 60 warga dilibatkan dalam sekali pementasan mulai
+ dari penari hingga penabuh musik tradisional.
+ “Mereka yang tampil merupakan warga yang terlatih dan biasa latihan rutin,”
+ katanya.
+\end_layout
+
+\begin_layout Standard
+Secara terpisah, Kepala Desa Sukahurip Warsiman Haerudin mengaku pihaknya
+ sangat memberikan dukungan terhadap aktivitas kelompok seni di wilayahnya.
+ Bahkan, kegiatan kelompok seni tersebut termasuk dalam program desa dalam
+ pengembangan budaya daerah.
+ “Harapan kami ke depan, Desa Sukahurip bisa dikenal sebagai desa wisata
+ untuk mendukung destinasi pariwisata di Pangandaran.
+ Kami juga merencanakan pembuatan gedung seni untuk memfasilitasi kegiatan
+ kelompok seni,” tambahnya.
+\end_layout
+
+\begin_layout Subsection
+Subsubsection
+\end_layout
+
+\begin_layout Standard
+Setiap pementasan, kata Ion, kelompoknya selalu melibatkan penonton.
+ “Ya itu sebagai daya tarik biar mereka benar-benar menikmati dan mendapatkan
+ pengalaman baru.
+ Kami juga mengajarkan mereka,” tuturnya.
+ Dikatakan Ion, sedikitnya 60 warga dilibatkan dalam sekali pementasan mulai
+ dari penari hingga penabuh musik tradisional.
+ “Mereka yang tampil merupakan warga yang terlatih dan biasa latihan rutin,”
+ katanya.
+\end_layout
+
+\begin_layout Standard
+Secara terpisah, Kepala Desa Sukahurip Warsiman Haerudin mengaku pihaknya
+ sangat memberikan dukungan terhadap aktivitas kelompok seni di wilayahnya.
+ Bahkan, kegiatan kelompok seni tersebut termasuk dalam program desa dalam
+ pengembangan budaya daerah.
+ “Harapan kami ke depan, Desa Sukahurip bisa dikenal sebagai desa wisata
+ untuk mendukung destinasi pariwisata di Pangandaran.
+ Kami juga merencanakan pembuatan gedung seni untuk memfasilitasi kegiatan
+ kelompok seni,” tambahnya.
+\end_layout
+
+\begin_layout Subsubsection
+Subsubsubsection
+\end_layout
+
+\begin_layout Standard
+Isi Setiap pementasan, kata Ion, kelompoknya selalu melibatkan penonton.
+ “Ya itu sebagai daya tarik biar mereka benar-benar menikmati dan mendapatkan
+ pengalaman baru.
+ Kami juga mengajarkan mereka,” tuturnya.
+ Dikatakan Ion, sedikitnya 60 warga dilibatkan dalam sekali pementasan mulai
+ dari penari hingga penabuh musik tradisional.
+ “Mereka yang tampil merupakan warga yang terlatih dan biasa latihan rutin,”
+ katanya.
+\end_layout
+
+\begin_layout Standard
+Secara terpisah, Kepala Desa Sukahurip Warsiman Haerudin mengaku pihaknya
+ sangat memberikan dukungan terhadap aktivitas kelompok seni di wilayahnya.
+ Bahkan, kegiatan kelompok seni tersebut termasuk dalam program desa dalam
+ pengembangan budaya daerah.
+ “Harapan kami ke depan, Desa Sukahurip bisa dikenal sebagai desa wisata
+ untuk mendukung destinasi pariwisata di Pangandaran.
+ Kami juga merencanakan pembuatan gedung seni untuk memfasilitasi kegiatan
+ kelompok seni,” tambahnya.
+\end_layout
+
+\begin_layout Section
+Subbab Kedua
+\end_layout
+
+\begin_layout Standard
+Isi Setiap pementasan, kata Ion, kelompoknya selalu melibatkan penonton.
+ “Ya itu sebagai daya tarik biar mereka benar-benar menikmati dan mendapatkan
+ pengalaman baru.
+ Kami juga mengajarkan mereka,” tuturnya.
+ Dikatakan Ion, sedikitnya 60 warga dilibatkan dalam sekali pementasan mulai
+ dari penari hingga penabuh musik tradisional.
+ “Mereka yang tampil merupakan warga yang terlatih dan biasa latihan rutin,”
+ katanya.
+\end_layout
+
+\begin_layout Standard
+Secara terpisah, Kepala Desa Sukahurip Warsiman Haerudin mengaku pihaknya
+ sangat memberikan dukungan terhadap aktivitas kelompok seni di wilayahnya.
+ Bahkan, kegiatan kelompok seni tersebut termasuk dalam program desa dalam
+ pengembangan budaya daerah.
+ “Harapan kami ke depan, Desa Sukahurip bisa dikenal sebagai desa wisata
+ untuk mendukung destinasi pariwisata di Pangandaran.
+ Kami juga merencanakan pembuatan gedung seni untuk memfasilitasi kegiatan
+ kelompok seni,” tambahnya.
+\end_layout
+
+\end_body
+\end_document

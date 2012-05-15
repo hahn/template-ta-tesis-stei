@@ -1,0 +1,243 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass report
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine natbib_numerical
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+LANDASAN TEORI
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:LandasanTeori"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Robosoccer
+\end_layout
+
+\begin_layout Standard
+Seorang pemain akan meraup jumlah biji sesuai dengan tingkatannya (yang
+ disebut dengan mi).
+ Ketika mi hiji, maka ia akan meraup jumlah biji satu per satu, begitu seterusny
+a.
+ Dibutuhkan teknik dan strategi yang jitu dalam memainkan permainan ini.
+ Pemain tidak diperkenankan menyentuh barang sedikitpun biji yang tidak
+ akan diraup, ia juga tidak diperbolehkan meraup kurang atau lebih dari
+ jumlah biji yang disesuaikan dengan tahapan mi.
+ 
+\end_layout
+
+\begin_layout Subsection
+Mirosot
+\end_layout
+
+\begin_layout Standard
+Mungkin sebagian besar dari Anda yang lahir sebelum tahun 1990-an, kalimat
+ di atas bukan merupakan hal yang asing.
+ Kalimat berbahasa Sunda tersebut digunakan oleh anak-anak ketika akan memulai
+ sebuah permainan tradisional berjenis kompetisi, entah itu Boy-Boyan, Ucing
+ Sumput, atau nama permainan lainnya.
+ Sayang, kalimat tersebut telah jarang didengungkan seraya tergantikannya
+ permainan tradisional dengan permainan modern.
+ Anak-anak jaman sekarang lebih gemar mengantre di rental Play Station,
+ meluangkan waktu sebanyak-banyaknya untuk menjadi jagoan di arena layar.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{equation}
+x=x+y+z^{2}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Telinganya mungkin sama sekali tidak pernah mendengar kalimat itu, apalagi
+ melihat atau bahkan mempertunjukkannya secara langsung sebagaimana lumrahnya
+ kita dulu: sebagai anak-anak.
+ Padahal, jika diteliti, permainan anak tradisional memiliki nilai tinggi,
+ yang membuatnya bukan sekadar permainan.
+ Marilah kita bernostalgia, tentu Anda ingat akan permainan tradisional
+ Sunda berikut, Bekel (Beklen/bekles), Congklak, Dam-Daman, Boy-Boyan, Oray-Oray
+an, Sepdur/Slepdur, Karet, Gatrik, Sorodot Gaplok, Engkle/Pecle/Sondah/Sodlah,
+ Perepet Jengkol, Raja-Ratu, dsb.
+ Memang, jika dilihat secara sekilas, permainan yang saya sebutkan tadi
+ hanya sebatas permainan.
+ Akan tetapi, permainan tradisional Sunda memiliki makna yang tidak sedangkal
+ itu.
+ Banyak nilai-nilai yang terkandung di balik simbol-simbol kata yang membangun
+ syair-syairnya atau bahkan konteks pertunjukkannya.
+ Permainan tradisonal Sunda merupakan simbol, refleksi kondisi sosial, dan
+ media pembelajaran bagi anak-anak.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename messsssi.jpg
+	scale 30
+
+\end_inset
+
+
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Ini di Bab dua
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Sejarah
+\end_layout
+
+\begin_layout Standard
+Banyak sekali nama untuk menyebut permainan yang bermediakan biji kuwuk
+ dan bola karet ini.
+ Ada yang menyebutnya Bekel, Beklen, atau Bekles.
+ Nama permainan ini berasal dari kata bèkel, yang dalam bahasa Sunda berari
+ bekal.
+ Permainan berjenis kompetisi ini biasa dimainkan oleh anak-anak perempuan
+ di waktu senggang.
+ Pola permainannya bersaing dan bertingkat.
+ Barang siapa yang terlebih dahulu mencapai tingkat tertinggi, dialah yang
+ kelak menjadi sang juara.
+ Banyak nilai-nilai moral yang terkandung di dalam permainan ini.
+ 
+\end_layout
+
+\begin_layout Standard
+Seorang pemain akan meraup jumlah biji sesuai dengan tingkatannya (yang
+ disebut dengan mi).
+ Ketika mi hiji, maka ia akan meraup jumlah biji satu per satu, begitu seterusny
+a.
+ Dibutuhkan teknik dan strategi yang jitu dalam memainkan permainan ini.
+ Pemain tidak diperkenankan menyentuh barang sedikitpun biji yang tidak
+ akan diraup, ia juga tidak diperbolehkan meraup kurang atau lebih dari
+ jumlah biji yang disesuaikan dengan tahapan mi.
+ 
+\end_layout
+
+\begin_layout Standard
+Melalui hal itulah Bekel mengajarkan nilai-nilai moral sedari dini kepada
+ anak-anak, bahwa hendaknya dalam hidup di bumi ini manusia hendaknya merancang
+ kehidupan agar selamat dan berbekal mapan untuk kehidupan selanjutnya.
+ Tahapan-tahapan permainan Bekel, menunjukkan tahapan-tahapan hidup yang
+ dilalui oleh manusia.
+ Tahapan-tahapan tersebut semakin menanjak, apabila pemain menyusun telah
+ berhasil melewati satu tahapan dengan upaya, strategi, dan cara yang jitu.
+ 
+\end_layout
+
+\begin_layout Standard
+Menurut 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Rossum97}
+\end_layout
+
+\end_inset
+
+, disebutkan bahwa mapan untuk kehidupan selanjutnya.
+ Tahapan-tahapan permainan Bekel, menunjukkan tahapan-tahapan hidup yang
+ dilalui oleh manusia.
+ Tahapan-tahapan tersebut semakin menanjak, apabila pemain menyusun telah
+ berhasil melewati satu tahapan dengan upaya, strategi, dan cara yang jitu.
+ 
+\end_layout
+
+\begin_layout Section
+Subbab Kedua
+\end_layout
+
+\begin_layout Standard
+Isi subbab kedua.
+\end_layout
+
+\end_body
+\end_document
