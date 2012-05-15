@@ -23,7 +23,7 @@
 % openany - if double side chapters start on the next page even or odd
 % 12pt can be replaced by 11pt
 
-\usepackage{thesis-sri}
+\usepackage{../sty/thesis}
 \usepackage{url}
 \usepackage{comment}
 
@@ -33,7 +33,7 @@
 
 %% uncomment the following and create mythesis-macros.sty for all your
 %% own macros.  This keeps this top level file looking fairly neat.
-\usepackage{hyphenation-sri}
+\usepackage{../sty/hyphenation}
 
 %% certain types of theses require special title page format.  See the
 %% style file for the full list.  An example would be that for some of
@@ -86,10 +86,10 @@
 \language_package none
 \inputencoding auto
 \fontencoding global
-\font_roman cmr
+\font_roman default
 \font_sans default
 \font_typewriter default
-\font_default_family rmdefault
+\font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
@@ -293,7 +293,7 @@ filename "abstract.lyx"
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "preface.lyx"
+filename "abstract.lyx"
 
 \end_inset
 
@@ -367,8 +367,8 @@ filename "chapter5.lyx"
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintAll"
-bibfiles "sri"
-options "abbrvcustom"
+bibfiles "D:/[KULIAH]/ROBOSOCCER/Roso/00_Tesis/template-ta-tesis-stei/bib/sri"
+options "D:/[KULIAH]/ROBOSOCCER/Roso/00_Tesis/template-ta-tesis-stei/bib/abbrvcustom"
 
 \end_inset
 
